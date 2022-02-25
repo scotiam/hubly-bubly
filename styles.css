@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background: #003049;
+  margin: 10vw;
+  font-family: 'Alata', sans-serif;
+
+}
+
+div {
+  display: inline-block;
+}
+
+button {
+  display: inline-block;
+  padding: 2vw;
+  font-family: 'Alata', sans-serif;
+  background-color: #f77f00;
+  border: none;
+  color: #003049;
+  font-size: 2vw;
+}
+
+h1 {
+  color: #eae2b7;
+}
+
+footer {
+  color: #FCBF49;
+  position: fixed;
+  left:0;
+  bottom: 0;
+  width: 100%;
+  padding: 1vw;
+}
+
+a {
+  color: inherit;
+}
